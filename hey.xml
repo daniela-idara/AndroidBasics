@@ -6,40 +6,40 @@
     android:orientation="vertical">
     
     <TextView
-    android:text="hey."
-    android:background="#6200EE"
-    android:textSize="49sp"
-    android:textColor="#FFFFFF"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:textStyle="bold"/>
+        android:text="hey."
+        android:background="#6200EE"
+        android:textSize="49sp"
+        android:textColor="#FFFFFF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"/>
     
     <TextView
-   	android:text="____hey."
-    android:background="#43A047"
-    android:textSize="48sp"
-    android:textColor="#FFFFFF"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:textStyle="bold"/>
+   	    android:text="____hey."
+        android:background="#43A047"
+        android:textSize="48sp"
+        android:textColor="#FFFFFF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"/>
     
     <TextView
-    android:text="________hey."
-    android:background="#EEFF41"
-    android:textSize="49sp"
-    android:textColor="#000000"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:textStyle="bold"/>
+        android:text="________hey."
+        android:background="#EEFF41"
+        android:textSize="49sp"
+        android:textColor="#000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"/>
     
     <TextView
-    android:text="____________hey."
-    android:background="#40C4FF"
-    android:textSize="48sp"
-    android:textColor="#FFFFFF"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:textStyle="bold"/>
+        android:text="____________hey."
+        android:background="#40C4FF"
+        android:textSize="48sp"
+        android:textColor="#FFFFFF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"/>
     
 
 </LinearLayout>
